@@ -1,0 +1,68 @@
+Added Component: Designator=JP1(2X5-SHROUDED_LOCK)
+Added Component: Designator=R1(AXIAL-0.4)
+Added Component: Designator=R2(AXIAL-0.4)
+Added Component: Designator=R3(AXIAL-0.4)
+Added Component: Designator=R4(AXIAL-0.4)
+Added Component: Designator=R5(AXIAL-0.4)
+Added Component: Designator=R6(AXIAL-0.4)
+Added Component: Designator=R7(AXIAL-0.4)
+Added Component: Designator=R8(AXIAL-0.4)
+Added Component: Designator=R9(AXIAL-0.4)
+Added Component: Designator=R10(AXIAL-0.4)
+Added Component: Designator=R11(AXIAL-0.4)
+Added Component: Designator=R12(AXIAL-0.4)
+Added Component: Designator=R13(AXIAL-0.4)
+Added Component: Designator=R14(AXIAL-0.4)
+Added Pin To Net: NetName=NetCN7_E Pin=JP1-2
+Added Pin To Net: NetName=NetCN6_E Pin=JP1-3
+Added Pin To Net: NetName=NetCN5_E Pin=JP1-4
+Added Pin To Net: NetName=NetCN4_E Pin=JP1-5
+Added Pin To Net: NetName=NetCN3_E Pin=JP1-6
+Added Pin To Net: NetName=NetCN2_E Pin=JP1-7
+Added Pin To Net: NetName=NetCN1_E Pin=JP1-8
+Added Pin To Net: NetName=GND Pin=JP1-9
+Added Pin To Net: NetName=VCC Pin=JP1-10
+Added Pin To Net: NetName=GND Pin=R1-P$1
+Added Pin To Net: NetName=NetCN1_E Pin=R1-P$2
+Added Pin To Net: NetName=GND Pin=R2-P$1
+Added Pin To Net: NetName=NetCN1_K Pin=R2-P$2
+Added Pin To Net: NetName=GND Pin=R3-P$1
+Added Pin To Net: NetName=NetCN2_E Pin=R3-P$2
+Added Pin To Net: NetName=GND Pin=R4-P$1
+Added Pin To Net: NetName=NetCN2_K Pin=R4-P$2
+Added Pin To Net: NetName=GND Pin=R5-P$1
+Added Pin To Net: NetName=NetCN3_E Pin=R5-P$2
+Added Pin To Net: NetName=GND Pin=R6-P$1
+Added Pin To Net: NetName=NetCN3_K Pin=R6-P$2
+Added Pin To Net: NetName=GND Pin=R7-P$1
+Added Pin To Net: NetName=NetCN4_E Pin=R7-P$2
+Added Pin To Net: NetName=GND Pin=R8-P$1
+Added Pin To Net: NetName=NetCN4_K Pin=R8-P$2
+Added Pin To Net: NetName=GND Pin=R9-P$1
+Added Pin To Net: NetName=NetCN5_E Pin=R9-P$2
+Added Pin To Net: NetName=GND Pin=R10-P$1
+Added Pin To Net: NetName=NetCN5_K Pin=R10-P$2
+Added Pin To Net: NetName=GND Pin=R11-P$1
+Added Pin To Net: NetName=NetCN6_E Pin=R11-P$2
+Added Pin To Net: NetName=GND Pin=R12-P$1
+Added Pin To Net: NetName=NetCN6_K Pin=R12-P$2
+Added Pin To Net: NetName=GND Pin=R13-P$1
+Added Pin To Net: NetName=NetCN7_E Pin=R13-P$2
+Added Pin To Net: NetName=GND Pin=R14-P$1
+Added Pin To Net: NetName=NetCN7_K Pin=R14-P$2
+Added Member To Class: ClassName=Sheet1 Member=Component JP1 Header 5x2Standard 10-pin dual row 0.1" header. Commonly used with AVR-ISP. Use with Spark Fun Electronics SKU: PRT-00778
+Added Member To Class: ClassName=Sheet1 Member=Component R1 100k
+Added Member To Class: ClassName=Sheet1 Member=Component R2 470
+Added Member To Class: ClassName=Sheet1 Member=Component R3 100k
+Added Member To Class: ClassName=Sheet1 Member=Component R4 470
+Added Member To Class: ClassName=Sheet1 Member=Component R5 100k
+Added Member To Class: ClassName=Sheet1 Member=Component R6 470
+Added Member To Class: ClassName=Sheet1 Member=Component R7 100k
+Added Member To Class: ClassName=Sheet1 Member=Component R8 470
+Added Member To Class: ClassName=Sheet1 Member=Component R9 100k
+Added Member To Class: ClassName=Sheet1 Member=Component R10 470
+Added Member To Class: ClassName=Sheet1 Member=Component R11 100k
+Added Member To Class: ClassName=Sheet1 Member=Component R12 470
+Added Member To Class: ClassName=Sheet1 Member=Component R13 100k
+Added Member To Class: ClassName=Sheet1 Member=Component R14 470
+Added Room: Name=Sheet1

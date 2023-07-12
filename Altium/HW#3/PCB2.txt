@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : D:\General Workshop\HW3_Iman\ali_imangholi\data\PCB_Project\PCB2.PcbDoc
+Date         : 12/1/2020
+Time         : 10:50:58 PM
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 96
+    Connections routed, 96
+    Connections remaining, 0
+count : 4
